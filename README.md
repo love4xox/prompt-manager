@@ -1,1 +1,1 @@
-# prompt-manager 
+# AI 프롬프트 매니저
