@@ -1,0 +1,79 @@
+* [33m544f6d3[m[33m ([m[1;31morigin/feature/visual-branch[m[33m, [m[1;32mfeature/visual-branch[m[33m)[m feat: Add new file in visual branch
+*   [33m88e1369[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeature/demo[m[33m)[m merge: Merge feature/graph branch into main
+[32m|[m[33m\[m  
+[32m|[m * [33m5d27ea1[m[33m ([m[1;31morigin/feature/graph[m[33m, [m[1;32mfeature/graph[m[33m)[m feat: Add feature branch commit for graph visualization
+[32m|[m[32m/[m  
+* [33m25d2f67[m docs: Complete README documentation update
+* [33mcae825b[m docs: Add troubleshooting notes to README
+* [33m0d6c0af[m docs: Document git merge command usage
+* [33m2d98943[m docs: Document git checkout command usage
+* [33meb9cc27[m docs: Add branch practice documentation
+* [33mbd68978[m docs: Update README with git history section
+* [33m8363a8c[m[33m ([m[1;32mfeature/test[m[33m)[m feat: Add test script in feature branch
+* [33mb237254[m feat: Add JSON persistence and Markdown export functionality (Bonus 1)
+* [33maff5d76[m feat: Add JSON persistence and Markdown export functionality (Bonus 1)
+* [33mfa897e8[m docs: Update README.md with bonus features and troubleshooting
+* [33mfc70c44[m docs: Update README.md with bonus features and troubleshooting
+* [33ma75123d[m docs: Update README.md with bonus features and troubleshooting
+* [33m214705f[m docs: Add exported markdown files
+* [33md4c43d0[m docs: Update prompts.json content
+* [33m88c149c[m feat: Add JSON persistence and Markdown export functionality (Bonus 1)
+* [33m458a2c6[m docs: Update README.md with bonus features and troubleshooting
+* [33m19c486b[m docs: Update README.md with bonus features and troubleshooting
+* [33me586ae2[m docs: Update README with bonus features
+* [33m9b55222[m docs: Update README with bonus features
+* [33m164b6fa[m docs: Update README with bonus feature documentation
+* [33m20a4d1b[m Add files via upload
+* [33ma2c5188[m Create README.md
+* [33mb8e6982[m Add files via upload
+* [33m436f9c0[m Create README.md
+* [33m98a247b[m Add files via upload
+* [33mb0d785f[m Create README.md
+* [33m6e69d1d[m Add files via upload
+* [33m0834b23[m Create README.md
+* [33m7be4183[m Delete 이미지/테스트
+* [33mf20161c[m Create 테스트
+* [33m4b19288[m Add header and description to README.md
+* [33m0c45e8d[m Create README.md
+* [33m8551445[m Delete 이미지/테스트 directory
+* [33m7b88f8e[m Create README.md
+* [33m7d21c68[m Delete 이미지 directory
+* [33m67730ed[m Update README.md with project title and description
+* [33m97cb07c[m Create README.md
+* [33md3be71f[m docs: 내용 수정
+* [33m91e9292[m docs: 내용 수정
+* [33m2331660[m docs: 내용 수정
+* [33me4bcc65[m docs: Update README.md with project overview and usage guide
+* [33m1008b58[m refactor: Enhance input validation and CLI user experience
+* [33m2310b56[m feat: Add favorite prompt list view function
+* [33m6a26b74[m feat: Add favorite toggle function
+* [33m5d3fd5d[m feat: Add detailed view function by prompt ID
+* [33ma0edd54[m feat: Add keyword search function for title and content
+* [33m4182acb[m feat: Add prompt filtering by category
+* [33md35ed96[m feat: Add full prompt list display function
+* [33m05704ee[m feat: Add prompt creation function
+* [33m6c090e4[m feat: Implement main prompt data structure and show_menu
+* [33m54676d1[m test: Complete prompt functional testing and update main.py
+* [33m244204a[m docs: 내용 수정
+* [33m208f671[m docs: 내용 수정
+* [33m5603de3[m docs: 내용 수정
+* [33m9c9339b[m docs: 내용 수정
+* [33me405714[m docs: 내용 수정
+* [33m87d9b11[m docs: 내용 수정
+* [33m4a6d155[m docs: 내용 수정
+* [33m1bc015a[m docs: 내용 수정
+* [33med18c5d[m docs: 내용 수정
+* [33mcfbcb11[m docs: 내용 수정
+* [33m5860cbc[m docs: 내용 수정
+* [33m340fab6[m docs: 내용 수정
+* [33mdd00970[m docs: README.md 내용 작성 및 학습 정리 추가
+* [33m839ba1f[m style: Clean up console UI and menu output
+* [33me66ddb1[m refactor: Enhance input validation and exception handling
+* [33m6a4e521[m feat: Add favorite list display function
+* [33m95db1be[m feat: Add favorite toggle function
+* [33mcb4e9f8[m feat: Add detailed prompt view function
+* [33m80e745b[m feat: Add keyword search function
+* [33m266249c[m feat: Add prompt category filter function
+* [33mfa36dd4[m feat: Add prompt addition function
+* [33m2ffbe2b[m feat: Implement full prompt management functions and initial data
+* [33m91e803d[m docs: Initial commit with README and gitignore
