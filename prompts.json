@@ -95,7 +95,7 @@
         "title": "BGM 프롬프트",
         "category": "영상 생성",
         "content": "Premium instrumental background music for an AI smart lighting advertisement.\n\nSoft piano melody with subtle ambient electronic textures and warm synth pads.\n\nWarm, modern, elegant, peaceful, emotional, and premium.\n\nThe music should gently evolve from a calm evening atmosphere to a warm and comfortable feeling, reflecting the transformation of a living space through intelligent lighting.\n\nNo vocals.\nInstrumental only.",
-        "favorite": false
+        "favorite": true
     },
     {
         "id": 15,
